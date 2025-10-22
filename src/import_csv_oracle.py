@@ -26,4 +26,3 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("Dados importados com sucesso na tabela existente!")
