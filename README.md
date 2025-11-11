@@ -39,4 +39,3 @@ Abaixo temos um print mostrando os dados inseridos com êxito no banco Oracle:
 2. Instale as bibliotecas necessárias:
 ```bash
 pip install pandas oracledb
-
