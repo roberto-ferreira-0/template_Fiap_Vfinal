@@ -28,6 +28,12 @@ Para validar a importação dos dados, analises básicas em SQL foram realizadas
 - **dados**: CSV `dados_dos_sensores_fase2_esp32.csv`  
 - **src**: scripts de Python (`import_csv_oracle.py`) e outros códigos fonte  
 
+## Print do banco Oracle
+Abaixo temos um print mostrando os dados inseridos com êxito no banco Oracle:
+
+![Print do Banco Oracle](assets/print_banco_oracle_fiap.png)
+
+
 ## Como executar o código
 1. Possuir instalado **Python 3.12** ou superior instalado.
 2. Instale as bibliotecas necessárias:
